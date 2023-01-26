@@ -1,3 +1,22 @@
+# thetomcoffee fork notes: 
+
+Notes on layout options in .NET MAUI:
+
+Layout Panel Options:  
+
+[![image displaying examples of StackLayout AbsoluteLayout Grid and FlexLayout](https://learn.microsoft.com/en-us/training/dot-net-maui/customize-xaml-pages-layout/media/2-layouts.png)](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/2-specify-size-view)
+
+
+ *   StackLayout: arranges its child views in a single row or column. In addition to StackLayout, there's also a new optimized VerticalStackLayout and HorizontalStackLayout when you don't need to change orientation.
+ *   AbsoluteLayout: arranges its child view by using x and y coordinates.
+ *   Grid: arranges its child views in cells that are created by rows and columns.
+ *   FlexLayout: arranges its child views like a StackLayout except that you can wrap them if they don't fit into a single row or column.
+    
+ See [Specify the size of a view](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/2-specify-size-view) as part of [Customize Layout in .NET MAUI XAML Pages](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/) for more info.
+
+
+# original README: 
+
 
 # Contributing
 
