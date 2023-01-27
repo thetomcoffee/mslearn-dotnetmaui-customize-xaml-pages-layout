@@ -14,6 +14,10 @@ Layout Panel Options:
     
  See [Specify the size of a view](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/2-specify-size-view) as part of [Customize Layout in .NET MAUI XAML Pages](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/) learning module for more info.
 
+ *** Also Note: ***
+ "... the VerticalStackLayout and HorizontalStackLayout are optimized StackLayout controls with pre-defined orientations. It's recommended to use these controls when possible for the best layout performance. "
+ See [Optimized StackLayouts](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/4-arrange-views-stacklayout#optimized-stacklayouts)
+
 
 # original README: 
 
